@@ -1,10 +1,8 @@
 ---
 marp: true
-theme: gaia
-_class: lead
+theme: uncover
+@auto-scaling fittingHeader,math
 paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
 # W3C WebRTC Meetup Update
@@ -19,6 +17,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Any member can propose for a new standard
 - A standard will succeed only if it is elaborated collectively
 - The workgroup leaders are making sure the consensus is going forward and reached before publication of a news standard.
+
 ---
 # WebRTC WG Topics for 2022
 - MediaStreamTrack Insertable Media Processing using Streams (Working Drafts)

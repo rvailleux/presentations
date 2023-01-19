@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="webrtc-wildcard-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.85261628"
+     inkscape:cx="360.74889"
+     inkscape:cy="865.06956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ed5131;fill-opacity:1;stroke-width:0.26458332"
+       id="rect828"
+       width="42.763123"
+       height="42.763123"
+       x="-64.411957"
+       y="2.2017105"
+       ry="3.9988065" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke-width:0.26458332"
+       id="rect828-3"
+       width="42.763123"
+       height="42.763123"
+       x="-64.411957"
+       y="44.964832"
+       ry="3.9988067" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.47639465px;line-height:1.25;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;letter-spacing:0px;word-spacing:0px;fill:#ed5131;fill-opacity:1;stroke:none;stroke-width:0.46190986;"
+       x="62.115078"
+       y="33.670536"
+       id="text873"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="62.115078"
+         y="33.670536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#ed5131;fill-opacity:1;stroke-width:0.46190986;">WebRTC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.47639465px;line-height:1.25;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;letter-spacing:0px;word-spacing:0px;fill:#ed5131;fill-opacity:1;stroke:none;stroke-width:0.46190986;"
+       x="62.115078"
+       y="54.340248"
+       id="text873-3"><tspan
+         sodipodi:role="line"
+         id="tspan871-6"
+         x="62.115078"
+         y="54.340248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#ed5131;fill-opacity:1;stroke-width:0.46190986;">Wildcard</tspan></text>
+    <g
+       id="g1521"
+       style="fill:#ed5131;fill-opacity:1">
+      <rect
+         ry="0"
+         y="10.045841"
+         x="15.190462"
+         height="48.947918"
+         width="38.540531"
+         id="rect1483-7"
+         style="opacity:1;fill:#ed5131;fill-opacity:1;stroke-width:0.26217732" />
+      <rect
+         ry="0"
+         y="12.603698"
+         x="12.544626"
+         height="43.832203"
+         width="43.832203"
+         id="rect1483"
+         style="opacity:1;fill:#ed5131;fill-opacity:1;stroke-width:0.26458332" />
+      <rect
+         ry="0"
+         y="15.337508"
+         x="9.8987961"
+         height="38.364582"
+         width="49.123863"
+         id="rect1483-5"
+         style="opacity:1;fill:#ed5131;fill-opacity:1;stroke-width:0.26204789" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.06515121px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90162879"
+       x="33.408688"
+       y="55.681984"
+       id="text1481"><tspan
+         sodipodi:role="line"
+         id="tspan1479"
+         x="33.408688"
+         y="55.681984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#ffffff;stroke-width:0.90162879">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.47639656px;line-height:1.25;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.46190986"
+       x="61.33147"
+       y="93.837273"
+       id="text873-35"><tspan
+         sodipodi:role="line"
+         id="tspan871-62"
+         x="61.33147"
+         y="93.837273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#333333;fill-opacity:1;stroke-width:0.46190986">WebRTC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.47639656px;line-height:1.25;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.46190986"
+       x="61.33147"
+       y="114.50699"
+       id="text873-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan871-6-1"
+         x="61.33147"
+         y="114.50699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#333333;fill-opacity:1;stroke-width:0.46190986">Wildcard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.70295906px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed5131;fill-opacity:1;stroke:none;stroke-width:0.592574"
+       x="183.89769"
+       y="111.8229"
+       id="text1481-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan1479-6-6"
+         x="183.89769"
+         y="111.8229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pixhobo;-inkscape-font-specification:Pixhobo;fill:#ed5131;fill-opacity:1;stroke-width:0.592574">*</tspan></text>
+  </g>
+</svg>
