@@ -6,7 +6,7 @@ paginate: true
 ---
 
 # W3C WebRTC Meetup Update
-@rvailleux  Jan 2023    FOSDEM 
+[@rvailleux@fosstodon.org](https://fosstodon.org/@rvailleux)  Feb 2023    FOSDEM 
 
 ---
 # W3C, a Community-led Standardization Organization
@@ -48,12 +48,28 @@ paginate: true
 # How to get infos, engage or contribute with the WebRTC WG?
 ## Get Info
 - WebRTC WG site : https://www.w3.org/groups/wg/webrtc
-- Monthly video recap on Youtube: https://www.youtube.com/@w3c-webrtc
-- W3C Developer Meetup - October 2023 - Sevilla, ES
-- Get some samples: https://webrtc.github.io/samples/ 
+- Monthly video discussion on Youtube: https://www.youtube.com/@w3c-webrtc (next will be on 21/02/2023)
+- W3C Developer Meetup - October 2023 - Sevilla, ES 
+- Get some WebRTC implementation samples: https://webrtc.github.io/samples/ 
+- WebRTC Tools: https://www.w3.org/groups/wg/webrtc/tools
 ---
 
 # How to get infos, engage or contribute with the WebRTC WG?
 ## Engage
 - WebRTC mailing list https://lists.w3.org/Archives/Public/public-webrtc/
-- 
+- WebRTC Workgroup IRC Channel: https://irc.w3.org/?channels=webrtc
+
+---
+
+# How to get infos, engage or contribute with the WebRTC WG?
+## Contribute
+- Express yourself on current topics processed by the workgroup
+- Propose to lead new topics of interest - Consensus-based decision
+
+:arrow_right: Membership: :https://www.w3.org/Consortium/membership.html
+  
+---
+# Get more infos:
+## W3C Staff 
+- Carine Bournez | carine@w3.org | @caribou@w3c.social | [Github]()
+- Dominique Hazael-Massieux | dom@w3.org | @dontcallmeDOM@w3c.social | [Github](https://github.com/dontcallmedom) 
