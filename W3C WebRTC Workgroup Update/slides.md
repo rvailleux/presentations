@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: uncover
 @auto-scaling fittingHeader,math
 paginate: true
@@ -13,7 +13,9 @@ Feb 2023
 ---
 # WebRTC - a W3C Standard
 2021 - WebRTC becomes a standard 
-(per W3C and IETF (Internet Engineering Task Force)) :tada:
+(per W3C and IETF (Internet Engineering Task Force))
+
+:tada:
 
 ---
 # W3C - a Community-led Standardization Organization
@@ -47,14 +49,12 @@ Feb 2023
 - IoT
 - Virtual Reality Gaming
 - Funny Hats/In-Browser compositing / Voice effect / Captioning / Voice-Face analysis (a.k.a raw media manipulation before sending)
-
 - Cloud Gaming / Game Streaming
 - Low latency broadcast with P2P relays
 - Decentralized Messaging
 
-
 ---
-# How to get infos, engage or contribute with the WebRTC WG?
+# How to get infos, engage with or contribute to the WebRTC WG?
 ## Get Info
 - WebRTC WG site : https://www.w3.org/groups/wg/webrtc
 - Monthly video discussion on Youtube: https://www.youtube.com/@w3c-webrtc (next will be on 21/02/2023)
@@ -63,14 +63,14 @@ Feb 2023
 - Working group repos: https://www.w3.org/groups/wg/webrtc/tools
 ---
 
-# How to get infos, engage or contribute with the WebRTC WG?
+# How to get infos, engage with or contribute to the WebRTC WG?
 ## Engage
 - WebRTC public mailing list https://lists.w3.org/Archives/Public/public-webrtc/
 - WebRTC Workgroup IRC Channel: https://irc.w3.org/?channels=webrtc
 
 ---
 
-# How to get infos, engage or cont,ribute with the WebRTC WG?
+# How to get infos, engage with or contribute to the WebRTC WG?
 ## Contribute
 - Express yourself on current topics processed by the working group
   - Github issues is the way!
