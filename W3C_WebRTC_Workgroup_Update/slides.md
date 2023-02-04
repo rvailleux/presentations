@@ -1,16 +1,45 @@
 ---
 marp: true
-theme: uncover
+theme: default
 @auto-scaling fittingHeader,math
 paginate: true
 ---
 
+
+<style>
+section {
+  color: #fff;
+  background: #ef5131;
+  font-family: monospace;
+}
+
+h1, h2, h3 {
+  color:#fff
+}
+
+a {
+  color: #ef5131;
+  text-decoration: underline #ef5131;
+}
+
+img.emoji {
+  width:200px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+</style> 
+
+
 # W3C WebRTC Meetup Update
-[@rvailleux@fosstodon.org](https://fosstodon.org/@rvailleux)
+@rvailleux@fosstodon.org
 Feb 2023
 **FOSDEM** 
 
 ---
+
+
 # WebRTC - a W3C Standard
 2021 - WebRTC becomes a standard 
 (per W3C and IETF (Internet Engineering Task Force))
@@ -18,19 +47,27 @@ Feb 2023
 :tada:
 
 ---
+<!--
+backgroundColor: #fff
+color: #EF5131
+ -->
 # W3C - a Community-led Standardization Organization
-- Any individual can participate to work groups
+- Any individual can participate to working groups
 - Anyone can be a W3C member (membership fees apply :))
   - Browser Editors
   - End-users Solution providers
-- Any member can propose for a new standard
+- Any member can propose for a new standardcd ??
 - A standard will succeed only if it is elaborated collectively
 - The working group leaders are making sure the consensus is going forward and reached before publication of a news standard.
 
 ---
+<!--
+backgroundColor: #EF5131
+color: #FFF
+ -->
 # Deployed/Matured topics
 - Media Capture and Streams (Candidate Recommendation Drafts)
-- Screen Capture
+- Screen Capture (Working Draft)
 - Audio Output Devices API (Candidate Recommendation Drafts)
 
 ---
@@ -38,12 +75,15 @@ Feb 2023
 - MediaStreamTrack Insertable Media Processing using Streams (Working Drafts)
 - Scalable Video Coding (SVC) Extension for WebRTC (Working Drafts)
 - Region, Viewport Capture (Working Drafts)
-- Capture Handle (Working Drafts)
-  - Bootstrapping Collaboration when Screensharing
+- Capture Handle - Bootstrapping Collaboration when Screensharing (Working Drafts)
 - WebRTC Encoded Transform 
 - The Capture-Handle Actions Mechanism
 
 ---
+<!--
+backgroundColor: #fff
+color: #EF5131
+ -->
 # Get inspired - A glance at use cases to be covered with WebRTC in the future
 - File Sharing
 - IoT
@@ -54,6 +94,10 @@ Feb 2023
 - Decentralized Messaging
 
 ---
+<!--
+backgroundColor: #fff
+color: #EF5131
+ -->
 # How to get infos, engage with or contribute to the WebRTC WG?
 ## Get Info
 - WebRTC WG site : https://www.w3.org/groups/wg/webrtc
@@ -77,12 +121,12 @@ Feb 2023
 - Propose to lead new topics of interest - Consensus-based decision
 
 
-:arrow_right: Membership: https://www.w3.org/Consortium/membership.html
+**==> Membership: https://www.w3.org/Consortium/membership.html**
   
 ---
 # Get more infos:
 ## W3C Staff 
-- Carine Bournez | carine@w3.org | @caribou@w3c.social | [Github]()
-- Dominique Hazaël-Massieux | dom@w3.org | @dontcallmeDOM@w3c.social | [Github](https://github.com/dontcallmedom) 
+- **Carine Bournez** | carine@w3.org | @caribou@w3c.social | [Github]()
+- **Dominique Hazaël-Massieux** | dom@w3.org | @dontcallmeDOM@w3c.social | [Github](https://github.com/dontcallmedom) 
 ## These slides
-:arrow_right: [On myGitHub account](https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html)
+[On myGitHub account](https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html)
