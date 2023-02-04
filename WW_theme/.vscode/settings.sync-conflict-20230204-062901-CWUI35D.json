@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "themes/WW_theme.scss",
+        "theme/gaia+.scss"
+    ]
+}

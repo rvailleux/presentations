@@ -1,3 +1,7 @@
 ```bash
-ls *.md | entr sh -c "npx @marp-team/marp-cli@latest *.md"
+//Start the live server
+npm run serve
+
+//Start the "watch and render" marp app
+npm run watch
 ```
