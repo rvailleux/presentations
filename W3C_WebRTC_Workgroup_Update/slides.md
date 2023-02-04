@@ -84,3 +84,5 @@ Feb 2023
 ## W3C Staff 
 - Carine Bournez | carine@w3.org | @caribou@w3c.social | [Github]()
 - Dominique Hazaël-Massieux | dom@w3.org | @dontcallmeDOM@w3c.social | [Github](https://github.com/dontcallmedom) 
+## These slides
+:arrow_right: [On myGitHub account](https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html)
