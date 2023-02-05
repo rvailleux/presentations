@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-@auto-scaling fittingHeader,math
+@auto-scaling fitting
 paginate: true
 ---
 
@@ -23,19 +23,28 @@ a {
 }
 
 img.emoji {
-  width:200px;
+  width:150px;
   height: auto;
   background-color: #fff;
   border-radius: 50%;
+}
+
+img{
+  background-color: transparent;
 }
 
 </style> 
 
 
 # W3C WebRTC Meetup Update
-@rvailleux@fosstodon.org
 Feb 2023
-**FOSDEM** 
+**FOSDEM**
+
+
+**Romain Vailleux**
+_APIRTC DevRel_
+WebRTC Paris Meetup | DevFest Perros-Guirec 
+@rvailleux@fosstodon.org | @WebRTCWildCard on Twitch
 
 ---
 
@@ -56,7 +65,7 @@ color: #EF5131
 - Anyone can be a W3C member (membership fees apply :))
   - Browser Editors
   - End-users Solution providers
-- Any member can propose for a new standardcd ??
+- Any member can propose for a new standard
 - A standard will succeed only if it is elaborated collectively
 - The working group leaders are making sure the consensus is going forward and reached before publication of a news standard.
 
@@ -65,13 +74,13 @@ color: #EF5131
 backgroundColor: #EF5131
 color: #FFF
  -->
-# Deployed/Matured topics
+# :rocket: Deployed/Matured topics
 - Media Capture and Streams (Candidate Recommendation Drafts)
 - Screen Capture (Working Draft)
 - Audio Output Devices API (Candidate Recommendation Drafts)
 
 ---
-# Still in progress topics
+# :baby: Still in progress topics
 - MediaStreamTrack Insertable Media Processing using Streams (Working Drafts)
 - Scalable Video Coding (SVC) Extension for WebRTC (Working Drafts)
 - Region, Viewport Capture (Working Drafts)
@@ -84,7 +93,7 @@ color: #FFF
 backgroundColor: #fff
 color: #EF5131
  -->
-# Get inspired - A glance at use cases to be covered with WebRTC in the future
+# :eyes: Get inspired - A glance at use cases to be covered with WebRTC in the future
 - File Sharing
 - IoT
 - Virtual Reality Gaming
@@ -102,13 +111,14 @@ color: #EF5131
 ## Get Info
 - WebRTC WG site : https://www.w3.org/groups/wg/webrtc
 - Monthly video discussion on Youtube: https://www.youtube.com/@w3c-webrtc (next will be on 21/02/2023)
-- W3C Developer Meetup - 12 September 2023 - Sevilla, ES 
 - Get some WebRTC implementation samples: https://webrtc.github.io/samples/ 
 - Working group repos: https://www.w3.org/groups/wg/webrtc/tools
 ---
 
 # How to get infos, engage with or contribute to the WebRTC WG?
 ## Engage
+
+- W3C Developer Meetup - 12 September 2023 - Sevilla, ES 
 - WebRTC public mailing list https://lists.w3.org/Archives/Public/public-webrtc/
 - WebRTC Workgroup IRC Channel: https://irc.w3.org/?channels=webrtc
 
@@ -130,3 +140,18 @@ color: #EF5131
 - **Dominique Hazaël-Massieux** | dom@w3.org | @dontcallmeDOM@w3c.social | [Github](https://github.com/dontcallmedom) 
 ## These slides
 [On myGitHub account](https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html)
+
+---
+<!--
+backgroundColor: #EF5131
+color: #fff
+-->
+# Thx :pray:
+@rvailleux
+
+---
+# Worthy advertisement
+![](assets/cat_animation.gif)
+
+---
+![bg](assets/Dev.apirtc.com(2).png)
