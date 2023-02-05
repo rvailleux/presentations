@@ -3,6 +3,7 @@ marp: true
 theme: default
 @auto-scaling fitting
 paginate: true
+
 ---
 
 
@@ -23,7 +24,7 @@ a {
 }
 
 img.emoji {
-  width:150px;
+  width:100px;
   height: auto;
   background-color: #fff;
   border-radius: 50%;
@@ -45,6 +46,7 @@ Feb 2023
 _APIRTC DevRel_
 WebRTC Paris Meetup | DevFest Perros-Guirec 
 @rvailleux@fosstodon.org | @WebRTCWildCard on Twitch
+
 
 ---
 
@@ -148,6 +150,9 @@ color: #fff
 -->
 # Thx :pray:
 @rvailleux
+
+
+https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html
 
 ---
 # Worthy advertisement
