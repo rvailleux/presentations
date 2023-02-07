@@ -1,6 +1,0 @@
-{
-    "scripts": {
-      "serve": "npx live-server > /dev/null",
-      "watch": "ls *.md | entr sh -c \"npx @marp-team/marp-cli@latest slides.md -o index.html\""
-    }
-  }

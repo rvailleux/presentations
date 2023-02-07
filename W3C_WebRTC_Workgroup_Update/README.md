@@ -1,7 +1,7 @@
 ```bash
-//Start the live server
-npm run serve
+//Install the marp tooling
+npm install -g @marp-team/marp-cli
 
-//Start the "watch and render" marp app
-npm run watch
+//Run the server with a preview that keep on wathcing for change
+marp -p -w slides.md
 ```
