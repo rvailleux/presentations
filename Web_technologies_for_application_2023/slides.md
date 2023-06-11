@@ -93,20 +93,46 @@ color: #EF5131
 //Sheme mesh
 *Scheme by Fatih Erikci*
 
+---
+
 # how does it work?
 //Sheme mesh
 *Scheme by Fatih Erikci*
 
+---
+
+## It is good at:
 
 ---
 
-Simple, basic
+# Simple, basic
 
 ---
 
 ## Instant Video communication
 - Chroma key and background replacement
 - Real-time image/audio processing
+
+---
+
+La vitre
+- Google Starline
+- Remote Control TunaDesk https://dev.to/redsoil/remote-desktop-control-tool-via-webrtc-2joh
+- WebTorrent
+    Auctions
+    Gambling and Betting
+    Telehealth and Remote Monitoring
+    Emergency Response and Communication
+    Connected Fitness and Health
+    Live Commerce and Shoppable Video
+    Gaming and Esports
+    Online Education
+    Live Sports
+    Corporate Communications
+    Music band
+    Show Playback
+    Workadventure
+
 
 ---
 
