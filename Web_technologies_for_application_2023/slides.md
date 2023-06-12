@@ -419,7 +419,7 @@ h1, h2, ul, p {
 
 ---
 ## These slides
-[On my github account @rvailleux](https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html)
+On my github account: https://rvailleux.github.io/presentations/Web_technologies_for_application_2023/
 
 ---
 <!--
