@@ -38,7 +38,7 @@ img{
 
 
 # WebRTC extravaganza – Standard browser-to-browser instant communication
-## Web Technologies for Application
+## Web Technologies for Applications
 Jun 2023
 
 ---
@@ -91,14 +91,14 @@ color: #EF5131
 
 ---
 
-# how does it work?
+# How does it work?
 
 ![height:500](./assets/mesh_sheme.png)
 *Scheme by Fatih Erikci*
 
 ---
 
-# how does it work?
+# How does it work?
 ![height:500px](./assets/sfu_sheme.png)
 *Scheme by Fatih Erikci*
 
@@ -106,6 +106,8 @@ color: #EF5131
 # Limitations
 - Scalability
 (look toward HLS or MPEG-DASH protocols for broadcasting use cases)
+- Stream Integrity (UDP)
+(comparing to WebSocket for example)
 
 ---
 
@@ -411,9 +413,9 @@ h1, h2, ul, p {
 ---
 
 ## Where to start?
-1. **Get a view on the architecture** (20min by Tashi): https://www.youtube.com/watch?v=5ci91dfKCyc 
+1. **Have a glance at the architecture** (20min by Tashi): https://www.youtube.com/watch?v=5ci91dfKCyc 
 2. **Try plain WebRTC**: https://webrtc.org/ or https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API or https://web.dev/webrtc-basics/
-3. **Find it too hard** and look for shortcuts: some video service platforms offers out-of-the-box WebRTC SDK to speed up and stabilise your app: https://bfy.tw/UBcM
+3. **Find it too hard** and look for shortcuts: some real-time video service platforms offers out-of-the-box WebRTC SDK to speed up and stabilise your app: https://bfy.tw/UBcM
 
 ---
 ## These slides
@@ -426,6 +428,7 @@ color: #fff
 -->
 # Thx :pray:
 @rvailleux
+romain.vailleux@apizee.com
 
 
 https://rvailleux.github.io/presentations/W3C_WebRTC_Workgroup_Update/index.html
