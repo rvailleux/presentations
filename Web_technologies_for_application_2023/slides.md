@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
 theme: default
 @auto-scaling fitting
 paginate: true
@@ -224,8 +224,26 @@ h1, h2, ul, p {
 
 ![bg](./assets/workadventure.gif)
 
-## Virtual workspace
+## Virtual events
 (ex:  Workadventure)
+
+---
+
+
+<style scoped>
+h1, h2, ul, p {
+  background: #000D;
+  width: 650px;
+}
+
+</style>
+
+
+
+![bg](./assets/kumo.png)
+
+## Virtual workspace
+(ex:  Kumospace)
 
 ---
 
