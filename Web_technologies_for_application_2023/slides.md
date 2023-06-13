@@ -273,7 +273,7 @@ h1, h2, ul, p {
 
 
 
-![bg](./assets/webtorrent.png)
+![bg](./assets/snowflake-schematic.png)
 
 ## Anti Censorship network 
 (ex: Snowflake, WebRTC+Tor-based VPN to avoid state trafic blocking)
