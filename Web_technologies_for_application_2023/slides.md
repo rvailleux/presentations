@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: default
 @auto-scaling fitting
 paginate: true
